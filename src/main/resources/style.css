@@ -1,0 +1,19 @@
+.start-point {
+    -fx-fill: blue;
+}
+
+.end-point {
+    -fx-fill: red;
+}
+
+.wall {
+    -fx-fill: black;
+}
+
+.none {
+    -fx-fill: lightgray;
+}
+
+.solution {
+    -fx-fill: green;
+}
